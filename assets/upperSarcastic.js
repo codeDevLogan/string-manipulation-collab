@@ -1,3 +1,5 @@
+let userInput = document.querySelector("#userName");
+
 const toUpper = function(userInput){
     return String.prototype.toUpperCase(userInput);
 }
